@@ -1,4 +1,4 @@
-## NROBOT
+## TFIT
 
 TFIT is a Python Executable library for TSALLIS DISTRIBUTION EQUATION CURVE FITTER.
 
