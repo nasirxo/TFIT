@@ -1,15 +1,22 @@
 ## TFIT
 
-TFIT is a Python Executable library for TSALLIS DISTRIBUTION EQUATION CURVE FITTER.
+TSALLIS DISTRIBUTION EQUATION CURVE FITTER.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tfit.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tfit. or with github
 
 ```bash
 pip install tfit
 ```
-
+ ```bash
+ git clone https://github.com/nasirxo/TFIT.git
+ cd TFIT
+ chmod +x tfit
+ ./tfit
+ ```
+ 
+ 
 ## Usage
 
 ```python
