@@ -7,7 +7,7 @@ TSALLIS DISTRIBUTION EQUATION CURVE FITTER.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tfit. or with github
 
 ```bash
-pip install tfit
+pip install ptfit
 ```
  ```bash
  git clone https://github.com/nasirxo/TFIT.git
